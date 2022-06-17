@@ -1,9 +1,5 @@
 # Venus
 
-Venus is an Application developed with React Native on a team
-basis work for the [Malltina](https://malltina.com/)
-internship course.
-
 This application displays random users from the following
  API endpoint.
  ```bash

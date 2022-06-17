@@ -52,9 +52,3 @@ Start the application
 ```bash
   npx react-native run-android
 ```
-
-## User Interface
-
-The project's UI was designed by [Marzieh Valizadeh](https://github.com/mvlz),
-You can see that
-[here](https://www.figma.com/file/omHUJWXsGATqZ87t4sivpO/Malltina).
